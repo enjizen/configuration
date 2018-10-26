@@ -35,7 +35,6 @@ class ConfigurationControllerTest {
             this.profile = "default"
             this.key = "host"
             this.value = "http://localhost:8989/gate_way"
-            this.label = "master"
         }
         val propertiesList = mutableListOf(properties)
 

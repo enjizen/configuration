@@ -23,8 +23,5 @@ class Properties {
 
     @Column(name = "value")
     var value: String? = null
-
-    @Column(name = "label")
-    var label: String? = null
 }
 
