@@ -22,7 +22,7 @@ class ConfigurationControllerTest {
 
 
     @Test
-    fun `test_getConfiguration`() {
+    fun test_getConfiguration() {
 
 
         val application = "api-gateway"
